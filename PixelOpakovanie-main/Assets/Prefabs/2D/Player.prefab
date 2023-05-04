@@ -135,7 +135,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   runSpeed: 7
-  jumpVelocity: 8
+  jumpVelocity: 9
   fallingModifier: 0.05
   bounceModifier: 0.85
   platformLayerMask:
